@@ -9,6 +9,7 @@
 ```sh
 npm run test
 ```
+Coverage report will be found here: `coverage-reports/index.html`
 
 # playwright-bdd-example
 
