@@ -5,6 +5,7 @@
 - Install `npm i monocart-coverage-reports -D`
 - Auto test fixture for collecting coverage data, see [steps/fixtures.ts](steps/fixtures.ts)
 - [global.setup.ts](global.setup.ts) and [global-teardown.ts](global-teardown.ts) for generating coverage reports
+- Coverage options see [mcr.config.ts](mcr.config.ts), Playwright config see [playwright.config.ts](playwright.config.ts)
 
 ```sh
 npm run test
